@@ -1,9 +1,4 @@
-![Screenshot](docs/src/images/main-window.webp)
-
-# Resources
-
-- [Docs](https://konkers.github.io/irminsul)
-- [Discord](https://discord.gg/sPdCbNbWzJ)
+![Screenshot](images/main-window.webp)
 
 # Introduction
 
